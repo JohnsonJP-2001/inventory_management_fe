@@ -1,4 +1,4 @@
-import { ProductData } from "../interface/Product";
+import { ProductData } from "../interface/Product.interface";
 
 export const Product: ProductData[] = [
     {

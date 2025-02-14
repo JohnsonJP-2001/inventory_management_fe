@@ -4,7 +4,7 @@ import {
     useMaterialReactTable,
     type MRT_ColumnDef,
 } from 'material-react-table';
-import { ProductData } from '../../interface/Product';
+import { ProductData } from '../../interface/Product.interface';
 import { Product } from '../../data/Product';
 
 import moment from 'moment';
